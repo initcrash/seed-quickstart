@@ -20,7 +20,7 @@ needed, run `cargo make watch` instead of `cargo make build`.
 
 **Deploy**
 
-1. Run `cargo make build release`
+1. Run `cargo make build_release`
 2. Upload `index.html` and `pkg` to your web server
 
 ---
